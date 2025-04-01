@@ -488,6 +488,10 @@ footer .credit a {
     animation: animateModal .5s;
 }
 
+.modal .product-price span {
+    text-decoration: line-through;
+}
+
 /* Modal Animation */
 @keyframes animateModal {
     from {
